@@ -30,3 +30,5 @@ for line in listFile:
 
 listFile.close()
 
+def test_function():
+    pass
